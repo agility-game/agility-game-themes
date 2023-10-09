@@ -5,56 +5,56 @@
       "name": "Agility",
       "children": [
         {
-          "name": "Cloud Computing",
+          "name": "Company Purpose",
           "children": [
             {
-              "name": "Azure Cloud Computing",
+              "name": "...",
               "children": [
                 {
-                  "name": "Azure Cloud Infrastructure",
+                  "name": "...",
                   "children": [
                     {
-                      "name": "Azure Governance",
+                      "name": "...",
                       "value": 50
                     },
                     {
-                      "name": "Azure Compute",
+                      "name": "...",
                       "value": 50
                     },
                     {
-                      "name": "Azure Storage (Non-Relational)",
+                      "name": "...",
                       "value": 50
                     },
                     {
-                      "name": "Azure Storage (Relational)",
+                      "name": "...",
                       "value": 50
                     },
                     {
-                      "name": "Azure Data Integration",
+                      "name": "...",
                       "value": 50
                     },
                     {
-                      "name": "Azure Application Architecture",
+                      "name": "...",
                       "value": 50
                     },
                     {
-                      "name": "Azure Authentication and Authorization",
+                      "name": "...",
                       "value": 50
                     },
                     {
-                      "name": "Azure Monitoring",
+                      "name": "...",
                       "value": 50
                     },
                     {
-                      "name": "Azure Networks",
+                      "name": "...",
                       "value": 50
                     },
                     {
-                      "name": "Azure Business Continuity and Disaster Recovery",
+                      "name": "...",
                       "value": 50
                     },
                     {
-                      "name": "Azure Migrations",
+                      "name": "...",
                       "value": 50
                     }
                   ]
@@ -62,10 +62,208 @@
               ]
             },
             {
-              "name": "Google Cloud Computing",
+              "name": "Company Vision",
               "children": [
                 {
-                  "name": "Google Cloud Infrastructure",
+                  "name": "...",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "Company Mission",
+              "children": [
+                {
+                  "name": "...",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "Company Values",
+              "children": [
+                {
+                  "name": "...",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "Portfolio",
+              "children": [
+                {
+                  "name": "...",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "Programs",
+              "children": [
+                {
+                  "name": "...",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "Plans",
+              "children": [
+                {
+                  "name": "...",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "Product Portfolio",
+              "children": [
+                {
+                  "name": "...",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "Product Vision",
+              "children": [
+                {
+                  "name": "...",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "Business Impact, Principles/Values",
+              "children": [
+                {
+                  "name": "...",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "Product Mission",
+              "children": [
+                {
+                  "name": "...",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "Goals",
+              "children": [
+                {
+                  "name": "...",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "Objectives",
+              "children": [
+                {
+                  "name": "...",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "Targets",
+              "children": [
+                {
+                  "name": "...",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "Strategies",
+              "children": [
+                {
+                  "name": "...",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "Initiatives/Tactics",
+              "children": [
+                {
+                  "name": "...",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "Opportunities",
+              "children": [
+                {
+                  "name": "...",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "Ideas",
+              "children": [
+                {
+                  "name": "...",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "Solutions",
+              "children": [
+                {
+                  "name": "...",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "Epics",
+              "children": [
+                {
+                  "name": "...",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "Features",
+              "children": [
+                {
+                  "name": "...",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "Stories",
+              "children": [
+                {
+                  "name": "...",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "Tasks",
+              "children": [
+                {
+                  "name": "...",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "name": "Operations",
+              "children": [
+                {
+                  "name": "...",
                   "value": 50
                 }
               ]
