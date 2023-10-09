@@ -1,2 +1,2 @@
-agility-game-themes
-# Agility Game - Themes
+agility-game-topics
+# Agility Game - Topics
